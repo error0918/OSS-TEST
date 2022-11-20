@@ -89,7 +89,7 @@ class MainActivity : ComponentActivity() {
                                 modifier = Modifier.size(100.dp)
                             )
                             Text(
-                                text = "OSS 라이센스 테스트",
+                                text = "OSS 라이선스 테스트",
                                 style = MaterialTheme.typography.titleLarge
                             )
                             Text(
